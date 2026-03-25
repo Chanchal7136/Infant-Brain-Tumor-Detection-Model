@@ -1,13 +1,13 @@
-# 🧠 Infant Brain Tumor Detection using Deep Learning
+# Infant Brain Tumor Detection using Deep Learning
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on detecting and classifying brain tumors in infants using **Deep Learning techniques**. Early diagnosis of brain tumors is critical for effective treatment, and this system helps automate the detection process using MRI scan images.
 
 The model analyzes MRI images and classifies them into different tumor categories, assisting medical professionals in faster and more accurate decision-making.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Detect brain tumors from MRI images
 - Classify tumors into multiple categories
 - Improve diagnostic accuracy using deep learning
@@ -15,7 +15,7 @@ The model analyzes MRI images and classifies them into different tumor categorie
 
 ---
 
-## 🧬 Tumor Classification Categories
+##  Tumor Classification Categories
 
 The model classifies MRI images into the following categories:
 
@@ -26,7 +26,7 @@ The model classifies MRI images into the following categories:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Python 🐍  
 - TensorFlow / Keras  
 - OpenCV  
@@ -36,7 +36,7 @@ The model classifies MRI images into the following categories:
 
 ---
 
-## ⚙️ Features
+##  Features
 - Image preprocessing (resizing, normalization)
 - CNN-based deep learning model
 - Multi-class classification
@@ -46,7 +46,7 @@ The model classifies MRI images into the following categories:
 
 ---
 
-## 🧠 Model Architecture
+##  Model Architecture
 - Convolutional Neural Network (CNN)
 - Layers used:
   - Convolutional Layers
@@ -56,18 +56,17 @@ The model classifies MRI images into the following categories:
 
 ---
 
-## 📊 Results
+##  Results
 - Achieved high accuracy on test dataset  
 - Efficient tumor classification  
 - Reliable predictions on unseen data  
 
-*(👉 Add your actual accuracy here, e.g., **Accuracy: 94%**)*
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
-### 1️⃣ Clone the Repository
+###  Clone the Repository
 ```bash
 git clone https://github.com/your-username/infant-brain-tumor-detection.git
 cd infant-brain-tumor-detection
