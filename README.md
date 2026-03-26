@@ -64,12 +64,7 @@ The model classifies MRI images into the following categories:
 
 ---
 
-##  How to Run the Project
 
-###  Clone the Repository
-
-git clone https://github.com/your-username/infant-brain-tumor-detection.git
-cd infant-brain-tumor-detection
 
 
 ##  Model Performance
